@@ -1,1 +1,1 @@
-# WorldDatavizPrize2023
+# World Dataviz Prize 2023
